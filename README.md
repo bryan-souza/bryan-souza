@@ -54,7 +54,7 @@
 <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryan-souza&theme=dracula&show_icons=true&include_all_commits=true" width="479" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-souza&compact_layout=true&theme=dracula" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-souza&layout=compact&theme=dracula" width="400" />
 </p>
 
 <br />
